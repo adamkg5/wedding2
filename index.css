@@ -1,0 +1,46 @@
+html{
+	background: #FCF6F0
+}
+img{ 
+	max-width: 100%; 
+	padding: 0px;
+}
+h1 {
+	color: #3750C1;
+	font-family: 'Clicker Script', cursive;
+	font-size: 16vw;
+	margin-top: 0px;
+	text-align: center;
+	margin-bottom: 0px;
+}
+h2 {
+	font-family: 'Pompiere', cursive;
+	font-size: 6vw;
+	margin-top: 0px;
+	text-align: center;
+	margin-bottom: 0px;
+	color: #C6CFF6;
+}
+h3 {
+	font-family: 'Pompiere', cursive;
+	font-size: 6vw;
+	margin-top: 0px;
+	text-align: center;
+	margin-bottom: 0px;
+	color:#C6CFF6;
+}
+.navbar{
+	margin: auto;
+	margin-top: 5vw;
+	text-align: center;
+}
+.navbutton{
+	margin: 3vw;
+	color: #3750C1;
+	text-decoration: none;
+	font-family: 'Pompiere', cursive;
+	font-size: 6vw;
+}
+a:hover {
+	color:#C6CFF6;
+}
